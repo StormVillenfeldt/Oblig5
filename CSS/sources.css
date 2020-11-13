@@ -1,15 +1,16 @@
 body {
     text-align: center;
     font-family: Verdana, Tahoma, sans-serif;
-    background-color: #94acac;
+    background-color: #586a6a;
+    color: white;
+}
+
+a {
+    color: white;
 }
 
 .page {
+    margin-top: 0;
     margin-left: 10%;
     margin-right: 10%;
-    margin-top: 0vh;
-}
-
-p {
-    font-size: 20px;
 }
