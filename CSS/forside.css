@@ -4,7 +4,7 @@ body {
 }
 
 #london {
-    background-image: url(../bilder/london.jpg);
+    background-image: url(../Bilder/london.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: 0%;
@@ -32,7 +32,7 @@ body {
 }
 
 #rome {
-    background-image: url(../bilder/rome.jpg);
+    background-image: url(../Bilder/rome.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: 0%;
@@ -42,7 +42,7 @@ body {
 }
 
 #newyork {
-    background-image: url(../bilder/newyork.jpg);
+    background-image: url(../Bilder/newyork.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: 0%;
@@ -52,7 +52,7 @@ body {
 }
 
 #tokyo {
-    background-image: url(../bilder/tokyo.jpg);
+    background-image: url(../Bilder/tokyo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: 0%;
