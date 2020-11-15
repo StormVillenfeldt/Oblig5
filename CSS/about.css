@@ -2,6 +2,15 @@ body {
     text-align: center;
     font-family: Verdana, Tahoma, sans-serif;
     background-color: #94acac;
+    height: 100%;
+    position: relative;
+}
+
+.container {
+    min-height: 100vh;
+    display: block;
+    position: relative;
+    padding-bottom: 0;
 }
 
 .page {
